@@ -1,0 +1,11 @@
+.navbar-brand{
+    padding-top: 0 !important; 
+    padding-bottom: 10px !important;
+}
+.navbar-brand img{
+ height: 25px;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: #fff !important;
+    font-size: 17px;
+}
